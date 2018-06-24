@@ -24,7 +24,7 @@ START
 
 # Given an array of various types
 
-SET first_element = value of first index in the array
+SET first_element = value of index 0 in the array
 SET last_elements = values of index 1 to -1 in the array
 
 SET (reassign) first_element to an array of first_element
